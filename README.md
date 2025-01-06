@@ -1,7 +1,7 @@
 <h2 align="center"><I>Welcome to my Web World!</I></h2>
 
 ###
-<img align="right" height="335" src="https://img.freepik.com/free-photo/anime-style-student-attending-school_23-2151066386.jpg?semt=ais_hybrid"> 
+<img align="right" height="333" src="https://img.freepik.com/free-photo/anime-style-student-attending-school_23-2151066386.jpg?semt=ais_hybrid"> 
 
 <p><I><b>Languages and Tools :</b></I></p>
 
