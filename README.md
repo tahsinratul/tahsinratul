@@ -5,7 +5,7 @@
 <img align="right" height="150" src="https://img.freepik.com/free-photo/anime-style-student-attending-school_23-2151066386.jpg?semt=ais_hybrid"  />
 
 ###
-<p><h2>Languages and Tools :</h2></p>
+<p>Languages and Tools :</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
