@@ -1,11 +1,11 @@
-<h2 align="center">Welcome to my Web World!</h2>
+<h2 align="center"><I>Welcome to my Web World!</I></h2>
 
 ###
 
 <img align="right" height="150" src="https://img.freepik.com/free-photo/anime-style-student-attending-school_23-2151066386.jpg?semt=ais_hybrid"  />
 
 ###
-<p><I><b>Languages and Tools:</b></I></p>
+<p><I><b>Languages and Tools :</b></I></p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -22,7 +22,7 @@
 </div>
 
 ###
-<p><I><b>Connect with me:</b></I></p>
+<p><I><b>Connect with me :</b></I></p>
 
 <div align="left">
   <a href="https://www.facebook.com/tahsinfahim.ratul/" target="_blank">
