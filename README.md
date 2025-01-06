@@ -21,11 +21,11 @@
 
 ###
 <img align="right" height="236" src="https://img.freepik.com/free-photo/anime-style-student-attending-school_23-2151066386.jpg?semt=ais_hybrid"> 
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahsinratul&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+<br><br>
 
 <p><I><b>Connect with me :</b></I></p>
 
