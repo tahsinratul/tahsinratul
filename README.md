@@ -2,15 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahsinratul&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://img.freepik.com/free-photo/anime-style-student-attending-school_23-2151066386.jpg?semt=ais_hybrid"  />
-
-###
 <p><I><b>Languages and Tools :</b></I></p>
 
 <div align="left">
@@ -29,6 +20,12 @@
 </div>
 
 ###
+<img align="right" height="250" src="https://img.freepik.com/free-photo/anime-style-student-attending-school_23-2151066386.jpg?semt=ais_hybrid"> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahsinratul&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 <p><I><b>Connect with me :</b></I></p>
 
 <div align="left">
