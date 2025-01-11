@@ -28,9 +28,9 @@
 ###
 <img align="right" height="236" src="https://img.freepik.com/free-photo/anime-style-student-attending-school_23-2151066386.jpg?semt=ais_hybrid"> 
 <br>
-<div align="center">
+<div align="left">
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahsinratul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahsinratul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
 <br><br>
