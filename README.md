@@ -1,5 +1,5 @@
 <h2 align="center"><I>Hello world!</I></h2>
-<p>I am Tahsin Fahim Ratul, a passionate frontend developer. Working on various problem solving projects. My aim is to provide the knowledge that I have gathered from the web world!</p>
+<p>I am <span font-bold>Tahsin Fahim Ratul</span>, a passionate frontend developer. Working on various problem solving projects. My aim is to provide the knowledge that I have gathered from the web world!</p>
 
 ###
 
