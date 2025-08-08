@@ -21,7 +21,7 @@
 </I></p>
 
 
-<br>
+<br><br>
 
 <p><I><b>Languages and Tools :</b></I></p>
 
@@ -52,7 +52,7 @@
   <img width="12" />
 </div>
 
-###
+<br>
 
 <p><I><b>Connect with me :</b></I></p>
 
@@ -68,4 +68,4 @@
   </a>
 </div>
 
-###
+
