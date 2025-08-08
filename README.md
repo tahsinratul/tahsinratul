@@ -1,6 +1,17 @@
 <h2 align="center"><I>Hello world!</I></h2>
 <p>I am <b>Tahsin Fahim Ratul</b>, a passionate <b>frontend developer</b>. Working on various problem solving projects. My aim is to provide the knowledge that I have gathered from the web world!</p>
 
+
+<img align="right" height="236" src="https://img.freepik.com/free-photo/anime-style-student-attending-school_23-2151066386.jpg?semt=ais_hybrid"> 
+<br>
+<div align="left">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahsinratul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=true" height="180" alt="languages graph"  />
+</div>
+
+<br><br>
+
+
 ###
 
 <p><I><b>Languages and Tools :</b></I></p>
@@ -27,14 +38,6 @@
 </div>
 
 ###
-<img align="right" height="236" src="https://img.freepik.com/free-photo/anime-style-student-attending-school_23-2151066386.jpg?semt=ais_hybrid"> 
-<br>
-<div align="left">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahsinratul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
-<br><br>
 
 <p><I><b>Connect with me :</b></I></p>
 
