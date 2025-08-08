@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Next.js<br>
 - 👯 I’m looking to collaborate with other developers<br>
 - 🥅 2025 Goals: Code more!!<br>
-- ⚡ Fun fact: I love to draw and play guitar
+- ⚡ Fun fact: I love to sing and play guitar
 </I></p>
 
 
