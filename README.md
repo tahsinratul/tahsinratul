@@ -8,9 +8,7 @@
 <br>
 <div align="left">
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi0101&layout=compact&count_private=true&theme=gruvbox" />
 
-<a href="https://github.com/rafi0101/Android-Room-Database-Backup" target="_blank"></a>
 </div>
 
 <br><br>
