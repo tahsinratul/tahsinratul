@@ -4,19 +4,24 @@
 <br>
 
 
+
+
+
 <img align="right" height="236" src="https://img.freepik.com/free-photo/anime-style-student-attending-school_23-2151066386.jpg?semt=ais_hybrid"> 
 <br>
 <div align="left">
  
+ 
+ 
 
 </div>
 
-<br><br>
+
 
 <p><I>
 - 🌱 I’m currently learning Next.js<br>
 - 👯 I’m looking to collaborate with other developers<br>
-- 🥅 2025 Goals: Code more!!<br>
+- 🥅 2026 Goals: Code more!!<br>
 - ⚡ Fun fact: I love to sing and play guitar
 </I></p>
 
