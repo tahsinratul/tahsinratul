@@ -1,5 +1,5 @@
 <h2 align="center"><I>Assalamu Alaikum 🖤</I></h2>
-<p><I>I am <b>Tahsin Fahim Ratul</b>, a passionate <b>frontend developer</b>. Working on various problem solving projects. My aim is to provide the knowledge that I have gathered from the web world!</I></p>
+<p><I>I am <b>Tahsin Fahim Ratul</b>, a dedicated Frontend Developer specializing in building highly performant and user-centric web applications. With a robust background in problem-solving, my focus is on translating complex challenges into elegant, functional digital experiences. I am committed to sharing actionable insights and expertise gained from navigating the evolving web landscape.</I></p>
 
 <br>
 
