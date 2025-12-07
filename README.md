@@ -1,4 +1,4 @@
-<h2 align="center"><I>Hello world!</I></h2>
+<h2 align="center"><I>Assalamu Alaikum 🖤</I></h2>
 <p><I>I am <b>Tahsin Fahim Ratul</b>, a passionate <b>frontend developer</b>. Working on various problem solving projects. My aim is to provide the knowledge that I have gathered from the web world!</I></p>
 
 <br>
